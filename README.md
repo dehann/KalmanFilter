@@ -37,7 +37,7 @@ Planned updates
 
 These are in the time permitting development pipeline
 
-    Pade approximation for martix exponentials
+    Pade approximation for matrix exponentials
     Matrix fractions process noise Qd
     Low level integration with LCM, ROS and potentially MOOS
     EEF integration with use case examples
