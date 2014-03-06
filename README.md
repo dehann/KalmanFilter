@@ -5,7 +5,7 @@ KalmanFilter
 Introduction
 ------------
 
-Another Kalman Filter implementation -- WORK IN PROGRESS -- send us an email if you are after something specific. This is a growing project.
+C++ Kalman Filter implementation send us an email if you are after something specific. This is a growing project -- WORK IN PROGRESS.
 
 Dependencies
 ------------
