@@ -43,7 +43,7 @@ These are in the time permitting development pipeline
     EEF integration with use case examples
     Generalized performance and consistency evaluation tools
     Support for Julia/Python and Latex tools
-    Low level integration with XPDS for rapid prototyping and real-time deployments
+    Low level integration with XPDS for rapid prototyping and real-time deployments.
     
 
 
