@@ -338,7 +338,7 @@ VAR_MATRIXd KalmanFilter::expm(const VAR_MATRIXd &Ft) {
 	VAR_MATRIXd eye;
 	eye.setIdentity(Ft.rows(), Ft.cols());
 	
-	return (eye + Ft + 0.5*Ft*Ft);
+	return (eye + 0.5*Ft)*((eye - 0.5*Ft).inverse());
 }
 
 
